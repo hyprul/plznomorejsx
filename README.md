@@ -1,2 +1,0 @@
-# plznomorejsx
-Created with CodeSandbox
